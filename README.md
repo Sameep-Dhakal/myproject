@@ -1,6 +1,6 @@
 # Text Summarization Project
 
-This project explores various text summarization techniques and their applications. Below are links to different types of text summarizers:
+This project explores various text summarization techniques and their applications.
 
 ## Introduction
 
@@ -79,8 +79,6 @@ Text summarization techniques can be categorized into several types, each with i
 - Creating domain-specific summarization models often requires domain expertise and annotated data.
 - Generalization to other domains may be limited.
 - Maintenance and updates may be required to adapt to evolving domain-specific language.
-
-You can expand on each section by providing more details or examples as needed in your README.md file. This structure allows you to describe different summarization types and their respective pros and cons in a clear and organized manner.
 
 
 
